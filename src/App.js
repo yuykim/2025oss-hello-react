@@ -35,7 +35,7 @@ function App() {
           {/* 안쪽 이미지는 기존처럼 회전/애니메이션 */}
           <img src={logo} className="App-logo" alt="logo" />
         </div>
-        <div className="Hello-text">Hello World</div>
+        <div className="Hello-text">22100162_OSS_2025-2_assignment_4_2</div>
       </header>
     </div>
   );
